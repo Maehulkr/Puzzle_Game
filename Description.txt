@@ -1,0 +1,101 @@
+01 Standing an unknown path
+02 Looking for a way out
+03 Searching for a human trail
+04 Found a human trail
+05 Following the human trail
+06 Hit the dead end of the trail
+07 Started to rain in the forest
+08 Looking for a shelter
+09 Building a shelter
+10 Found a shelter under a tree
+11 Feeling hungry
+12 Looking for river
+13 Fishing in the river
+14 Watching the sunset
+15 Sitting beside the fire
+16 Planning to do what next
+17 Slept beside the fire
+18 Waking up next day for a beautiful morning
+19 Planning about what to do next
+20 Found a trail of horse
+21 Found a river
+22 Following a river downstream
+23 Found a delta
+24 Found an ocean
+25 Following the river upstream
+26 Found a reservoir
+27 Boiling the water for drinking
+28 Caught a fish and started cooking
+29 Found a dark part of forest
+30 Heard some cries
+31 Found the claw marks of a bear
+32 Found a cave
+33 Spent the night in cave by fire
+34 Dinner of insects
+35 Saw the peak of mountains
+36 Walking along with the river upstream
+37 Heard the roar of lion
+38 Running away from the paths of lion
+39 Found a creek full of alligators
+40 While walking found a rabbit's hole
+41 Setting up a trap for catching a rabbit
+42 Found a place nearby to spent the night
+43 Caught a rabbit for breakfast
+44 The smell of rabbit brought a bear up close
+45 Running away from the bear
+46 Reached a valley
+47 Walking along with valley to find settlement
+48 Reached a delta
+49 Found an empty house
+50 Spent another night in the forest
+51 Hunting for food and water
+52 Found some insects to eat
+53 Moving to cross the mountains
+54 Found some berries
+55 Found a freshwater lake
+56 Standing atop a mountain
+57 Looking for a direction from mountain
+58 Spent the night by enjoying the sunset
+59 Start to descend the mountains
+60 Walking in a predefined direction
+61 Found a herd of elephants
+62 Watching a herd of birds
+63 Found a lake full of hippos
+64 Heard the cry of a deer
+65 Hiding in a bush from lion
+66 Found a safe way away from lion
+67 Found some horse steps
+68 Following the horse footsteps
+69 Found atop a mountain
+70 Spent the night on the mountain tired
+71 Another morning searching for supplies
+72 Found a river
+73 Following the river downstream
+74 Found a lake full of lotuses
+75 Following the trail along with the river
+76 Found a small creek with water chestnuts
+77 Had water chestnuts
+78 Keep on following the river
+79 Saw smoke far away
+80 Walking towards the smoke
+81 Found a boat nearby
+82 Lost the trail
+83 Heard a howl
+84 Following the direction of howl
+85 Running away from the howl
+86 Spotted the herd of wild dogs
+87 Running away from the herd
+88 Walking to cross the mountains
+89 Spent the night on the mountains
+90 Crossed another set of mountains
+91 Searching for food and water
+92 Feeling quite cold
+93 Created a bonfire
+94 Spent the night beside the bonfire
+95 Found another river
+96 Following the river
+97 Reached a valley
+98 Start the ascent over the mountains
+99 Reached the top of mountain again
+Null You cannot go there
+Exit Found a settlement
